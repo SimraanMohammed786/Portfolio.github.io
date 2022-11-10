@@ -359,10 +359,10 @@ section .title::after{
 .skills-content .right .css::before{
     width: 70%;
 }
-.skills-content .right .sql::before{
+.skills-content .right .Javascript::before{
     width: 60%;
 }
-.skills-content .right .JavaScript::before{
+.skills-content .right .Bootstrap::before{
     width: 60%;
 }
 
