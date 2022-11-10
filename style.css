@@ -360,10 +360,10 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .Javascript::before{
-    width: 60%;
+    width: 50%;
 }
 .skills-content .right .Bootstrap::before{
-    width: 60%;
+    width: 50%;
 }
 
 /* contact section styling */
