@@ -354,13 +354,13 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .css::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .Javascript::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .Bootstrap::before{
     width: 50%;
