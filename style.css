@@ -359,9 +359,6 @@ section .title::after{
 .skills-content .right .css::before{
     width: 80%;
 }
-.skills-content .right .Javascript::before{
-    width: 70%;
-}
 .skills-content .right .Bootstrap::before{
     width: 60%;
 }
