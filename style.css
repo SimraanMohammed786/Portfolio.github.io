@@ -360,7 +360,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .Microsoft Office::before{
-    width: 65%;
+    width: 50%;
 }
 
 /* contact section styling */
