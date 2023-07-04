@@ -359,8 +359,8 @@ section .title::after{
 .skills-content .right .css::before{
     width: 80%;
 }
-.skills-content .right .Microsoft Office::before{
-    width: 50%;
+.skills-content .right.Microsoft Office::before{
+    width: 60%;
 }
 
 /* contact section styling */
