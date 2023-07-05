@@ -360,8 +360,9 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .ms::before{
-    width: 100%;
+    width: 80%;
 }
+
 
 /* contact section styling */
 .contact .title::after{
